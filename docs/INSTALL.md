@@ -31,7 +31,6 @@ This document explains how to set up Pi-hole on a Raspberry Pi 4 with a WD Eleme
 4. Click **Write** and wait for completion
 5. Safely eject the SD card
 
-> **Note:** If you don’t have an SD card reader yet, skip to Step 2 and prepare scripts and configs.
 
 ---
 
